@@ -1,7 +1,7 @@
 
 # Environments
 
-![](1_random_policy_lunar_lander.gif)
+![](1_random_policy.gif)
 
 # Policy Based Reinforcement learning
 ## Policy Approximation
@@ -10,5 +10,3 @@
 
 ## Policy Gradient
 ### REINFORCE
-![](2_trained_reinforce.gif)
-
